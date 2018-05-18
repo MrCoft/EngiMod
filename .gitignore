@@ -1,0 +1,16 @@
+# Python cache #
+################
+*.pyc
+__pycache__
+.cache
+
+# Editor files #
+################
+.idea
+*~
+
+# Other #
+#########
+cache
+todo
+decompiled
